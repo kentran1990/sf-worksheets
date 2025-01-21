@@ -68,5 +68,5 @@ CREATE OR REPLACE GIT REPOSITORY snowflake_extensions
   ORIGIN = 'https://github.com/kentran1990/sf-worksheets.git';
 
 
-  -- 
+  -- show git branches
   SHOW GIT BRANCHES IN snowflake_extensions;
