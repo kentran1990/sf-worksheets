@@ -69,4 +69,5 @@ CREATE OR REPLACE GIT REPOSITORY snowflake_extensions
 
 
   -- show git branches
+  -- AAA
   SHOW GIT BRANCHES IN snowflake_extensions;
